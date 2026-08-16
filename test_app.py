@@ -1,3 +1,4 @@
+# Test suite for Flask inventory API endpoints
 import pytest
 from unittest.mock import patch, Mock
 from app import app, inventory
